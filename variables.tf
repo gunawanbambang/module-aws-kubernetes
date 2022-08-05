@@ -1,6 +1,6 @@
 variable "aws_region" {
   type    = string
-  default = "eu-east-1"
+  default = "eu-west-1"
 }
 
 variable "env_name" {
